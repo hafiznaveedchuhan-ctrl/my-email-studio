@@ -112,4 +112,4 @@ There is no paid spend in this lab. If a budget is added later, start with retar
 1. Step 5: build `leads/leads.csv` with 8 fake leads in each of the 3 groups above.
 2. Step 6: add email writing rules, then draft the 4 emails with `/marketing:email-sequence`.
 3. Step 7: owner opens a fresh session for the brand review.
-4. **Approval needed from the owner:** the founding price ($19) and the 14 Dec deadline before any copy is final.
+4. ✅ Owner approved (2026-11-09): founding price $19 and the 14 Dec deadline (all made up for the lab).
