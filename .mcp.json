@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "resend-practice": {
+      "command": "npx",
+      "args": ["-y", "resend-mcp"],
+      "env": {
+        "RESEND_API_KEY": "${RESEND_API_KEY:-re_practice_local_only}",
+        "RESEND_BASE_URL": "${RESEND_BASE_URL:-http://localhost:4000}"
+      }
+    }
+  }
+}
