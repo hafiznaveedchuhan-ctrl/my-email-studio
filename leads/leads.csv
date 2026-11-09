@@ -1,0 +1,25 @@
+id,first_name,last_name,email,group,city,favorite_tea,signup_date,orders,consent
+L001,Ava,Thornbury,ava.thornbury@example.com,curious,Leeds,unknown,2026-08-14,0,yes
+L002,Omar,Castellan,omar.castellan@example.com,curious,Bristol,unknown,2026-09-02,0,yes
+L003,Priya,Wendell,priya.wendell@example.com,curious,Manchester,green,2026-09-19,0,yes
+L004,Leo,Marchetti,leo.marchetti@example.com,curious,Glasgow,unknown,2026-10-01,0,yes
+L005,Hana,Okafor,hana.okafor@example.com,curious,Cardiff,herbal,2026-10-07,0,yes
+L006,Felix,Brandt,felix.brandt@example.com,curious,York,unknown,2026-10-15,0,yes
+L007,Zara,Pennington,zara.pennington@example.com,curious,Brighton,chai,2026-10-22,0,yes
+L008,Mateo,Lindqvist,mateo.lindqvist@example.com,curious,Edinburgh,unknown,2026-11-01,0,yes
+L009,Grace,Holloway,grace.holloway@example.com,regulars,London,oolong,2025-03-11,4,yes
+L010,Samir,Quentin,samir.quentin@example.com,regulars,Oxford,black,2025-05-27,6,yes
+L011,Ingrid,Asheford,ingrid.asheford@example.com,regulars,Bath,green,2025-07-08,3,yes
+L012,Tomas,Delacroix,tomas.delacroix@example.com,regulars,Norwich,earl grey,2025-09-30,5,yes
+L013,Mei,Fairweather,mei.fairweather@example.com,regulars,Nottingham,jasmine,2025-11-12,2,yes
+L014,Rafael,Kingsley,rafael.kingsley@example.com,regulars,Sheffield,assam,2026-01-20,3,yes
+L015,Nadia,Whitcombe,nadia.whitcombe@example.com,regulars,Exeter,rooibos,2026-03-04,2,yes
+L016,Jonah,Abernathy,jonah.abernathy@example.com,regulars,Cambridge,sencha,2026-04-18,4,yes
+L017,Clara,Ventimiglia,clara.ventimiglia@example.com,gifters,Liverpool,unknown,2025-12-02,1,yes
+L018,Ethan,Moorcroft,ethan.moorcroft@example.com,gifters,Durham,black,2025-12-09,1,yes
+L019,Yasmin,Halvorsen,yasmin.halvorsen@example.com,gifters,Belfast,unknown,2025-12-15,2,yes
+L020,Arjun,Tremaine,arjun.tremaine@example.com,gifters,Leicester,chai,2026-02-10,1,yes
+L021,Sofia,Blackwood,sofia.blackwood@example.com,gifters,Aberdeen,unknown,2026-05-06,1,yes
+L022,Kenji,Ellsworth,kenji.ellsworth@example.com,gifters,Plymouth,green,2026-06-14,1,yes
+L023,Lucia,Farrowby,lucia.farrowby@example.com,gifters,Swansea,unknown,2026-09-28,1,yes
+L024,Daniel,Ostrander,daniel.ostrander@example.com,gifters,Coventry,herbal,2026-10-30,2,yes
