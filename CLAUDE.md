@@ -25,8 +25,11 @@ This is a practice lab. No real customer and no real email exists here.
 7. **Commit after each file**, with a short message in conventional style
    (`docs:`, `feat:`, `chore:`, `fix:`).
 
+## Brand voice
+@brand/voice.md
+
 ## Writing emails
-- Follow the brand voice in `brand/` for every line of copy.
+- Follow the brand voice above for every line of copy.
 - Every email needs: subject, preview text, body, one clear CTA, and an unsubscribe line.
 - File names: `campaigns/steep-club-launch/emails/NN-short-name.md` (e.g. `01-welcome.md`).
 - Personalized versions: `campaigns/steep-club-launch/personalized/<group>/NN-short-name.md`.
