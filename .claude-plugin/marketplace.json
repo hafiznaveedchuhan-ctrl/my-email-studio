@@ -1,0 +1,15 @@
+{
+  "name": "kettlebird-studio",
+  "description": "A tiny marketplace for the Kettlebird Email Studio lab: ships the studio-kit plugin (send-guard hook, email-reviewer subagent, personalize skill, review script).",
+  "owner": {
+    "name": "hafiznaveedchuhan-ctrl",
+    "url": "https://github.com/hafiznaveedchuhan-ctrl/my-email-studio"
+  },
+  "plugins": [
+    {
+      "name": "studio-kit",
+      "source": "./studio-kit",
+      "description": "Brand-agnostic email marketing studio kit: send-guard hook, email-reviewer subagent, personalize skill, and a schema-validated review script."
+    }
+  ]
+}

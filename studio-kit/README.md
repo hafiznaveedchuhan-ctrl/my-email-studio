@@ -15,8 +15,16 @@ client's studio and you get the same guardrails and helpers.
 - Node 20+ and the Claude Code CLI on PATH (the review script calls `claude -p`).
 - Set `MY_EMAIL` in the client's `.claude/settings.local.json` (gitignored) so the send-guard knows the one real allowed recipient.
 
-## Use it in a client project
-Point Claude Code at the plugin without installing it:
+## Install from the marketplace
+This repo doubles as a plugin marketplace (see `.claude-plugin/marketplace.json`):
+
+```
+/plugin marketplace add hafiznaveedchuhan-ctrl/my-email-studio
+/plugin install studio-kit --marketplace hafiznaveedchuhan-ctrl/my-email-studio
+```
+
+## Or use it without installing
+Point Claude Code at the plugin directly:
 
 ```
 cd ~/the-client-studio
