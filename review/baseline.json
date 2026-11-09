@@ -1,0 +1,16 @@
+{
+  "note": "Finding ids already reviewed/accepted. A re-review must not re-flag these.",
+  "resolved": [
+    "subject-misleading-re",
+    "subject-all-caps",
+    "health-claim-cure-subject",
+    "fake-urgency-hurry-subject",
+    "fake-urgency-last-chance",
+    "health-claim-detox",
+    "health-claim-boost-immunity",
+    "health-claim-cure-stress",
+    "fake-scarcity-only-3-left",
+    "fake-urgency-act-now",
+    "multiple-cta"
+  ]
+}
