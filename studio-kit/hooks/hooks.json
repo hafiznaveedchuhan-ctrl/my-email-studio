@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "mcp__resend.*|.*[Ss]end.*|.*[Bb]roadcast.*|.*[Ee]mail.*|.*[Mm]ail.*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "node \"${CLAUDE_PLUGIN_ROOT}/hooks/send-guard.mjs\""
+          }
+        ]
+      }
+    ]
+  }
+}

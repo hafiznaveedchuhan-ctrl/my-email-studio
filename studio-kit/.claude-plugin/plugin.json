@@ -1,0 +1,10 @@
+{
+  "name": "studio-kit",
+  "version": "0.1.0",
+  "description": "A reusable email marketing studio kit: brand-safe send-guard hook, an email-reviewer subagent, a personalize skill, and a schema-validated review script. Brand-agnostic — drop it into any client's studio.",
+  "author": {
+    "name": "Kettlebird Studio"
+  },
+  "license": "MIT",
+  "hooks": "./hooks/hooks.json"
+}

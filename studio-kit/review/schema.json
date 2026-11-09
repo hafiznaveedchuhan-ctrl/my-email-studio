@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "overall": { "type": "string", "enum": ["pass", "fail"] },
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "stable kebab-case slug for this issue, e.g. 'health-claim-detox' or 'subject-all-caps'"
+          },
+          "severity": { "type": "string", "enum": ["high", "medium", "low"] },
+          "rule": { "type": "string", "description": "which brand/voice or email rule is broken" },
+          "location": { "type": "string", "description": "where in the email (subject, body line, CTA)" },
+          "before": { "type": "string", "description": "the offending text" },
+          "after": { "type": "string", "description": "suggested fix" }
+        },
+        "required": ["id", "severity", "rule", "location", "before", "after"]
+      }
+    }
+  },
+  "required": ["overall", "findings"]
+}
