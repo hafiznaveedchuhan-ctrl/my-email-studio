@@ -17,7 +17,7 @@ Curious what actually comes in the box? Here's December:
 - **Snowy Jasmine**: a soft green tea, scented with jasmine blossoms overnight.
 - **Spiced Orange Rooibos**: caffeine-free, warm with clove and orange peel. Made for slow evenings.
 
-Each tea comes with a **tasting card**: where it's grown, what it tastes like, and how long to steep it (no guessing, no bitter cups).
+Each tea comes with a **tasting card**: where it's grown, what it tastes like, and how long to steep it, so every cup comes out just right.
 
 Already have a favourite? Tell us, and we'll keep it in mind when we pick your next box.
 
