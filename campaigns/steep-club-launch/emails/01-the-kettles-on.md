@@ -15,7 +15,7 @@ Same mug, same teabag, same 4pm slump? We've been there.
 
 So we built something new: **The Steep Club.**
 
-Every month, a little box arrives with **three small-batch teas** we've picked for you, plus a tasting card with each tea's story and the perfect steep time. That's about 15 cups of each, roughly one new cup for every day.
+Every month, a little box arrives with **three small-batch teas** we've picked for you, plus a tasting card with each tea's story and the perfect steep time. That's about 15 cups from each one, plenty of slow mornings to find a new favourite.
 
 Skip a month or cancel any time, right from your account.
 
